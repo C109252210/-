@@ -4,4 +4,4 @@
 | 學校        | 高雄科技大學                 |
 | 電子郵件    | C109252210@nkust.edu.tw         |
 | 選修        | 智慧城市導論                 |
-| 影片        |<video src="https://www.youtube.com/watch?v=0bsu6STvx6A" >|
+| 影片        |<movie src="https://www.youtube.com/watch?v=0bsu6STvx6A"|
