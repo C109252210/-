@@ -8,5 +8,6 @@
 | 學校        | 高雄科技大學                 |
 | 電子郵件    | C109252210@nkust.edu.tw         |
 | 選修        | 智慧城市導論                 |
-https://www.youtube.com/hashtag/%E9%9D%9E%E5%87%A1%E6%96%B0%E8%81%9E      |<movie src="https://www.youtube.com/watch?v=0bsu6STvx6A"|
-|智慧城市範例  |
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=0bsu6STvx6A" target="_blank"><img src="http://img.youtube.com/vi/0bsu6STvx6A/0.jpg" 
+alt="智慧路燈" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
