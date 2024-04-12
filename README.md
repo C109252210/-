@@ -9,4 +9,4 @@
 | 電子郵件    | C109252210@nkust.edu.tw         |
 | 選修        | 智慧城市導論                 |
 | 影片        |<movie src="https://www.youtube.com/watch?v=0bsu6STvx6A"|
-|智慧城市範
+|智慧城市範例  |
